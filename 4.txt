@@ -1,6 +1,0 @@
-*
-.DS_Store
-4.txt
-A/4.txt
-
-!A/
